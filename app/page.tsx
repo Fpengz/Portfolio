@@ -1,9 +1,7 @@
-export default function Page() {
-  return (
-    <main>
-      <div>
-        <h1>Home</h1>
-      </div>
-    </main>
-  )
+import { redirect } from 'next/navigation';
+
+export default function ServerComponent() {
+  redirect('/home');
+
+  return; 
 }
