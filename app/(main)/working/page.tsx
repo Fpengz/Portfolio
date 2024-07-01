@@ -1,8 +1,8 @@
 
 export default function Page() {
     return (
-    <div className="flex items-center justify-center h-full">
-        <div className="p-6 w-2/5 h-full bg-[#2c2c2c] md:w-4/5 lg:w-2/5">
+    <div className="flex items-center justify-center h-full overflow-auto">
+        <div className="p-6 text-center h-full bg-[#2c2c2c] md:w-4/5 lg:w-2/5">
             <p className="text-start border-b mb-5 text-xl">Internship Experience</p>
             <div className="flex justify-between items-center text-start">
                 <div className="text-start inline text-lg">Epson Singapore Pte Ltd</div>
