@@ -4,7 +4,7 @@ export default function Home() {
       
       {/* Name Header */}
       <h1 className="text-5xl font-extrabold text-gray-900 dark:text-white tracking-tight">
-        Hi, I'm Wang Zhoufu
+        Hi, I&apos;m Wang Zhoufu
       </h1>
       
       {/* Subtitle */}
@@ -14,7 +14,7 @@ export default function Home() {
 
       {/* About Section */}
       <p className="text-lg text-gray-700 dark:text-gray-300 mt-6 max-w-2xl leading-relaxed">
-        I'm passionate about <span className="font-semibold">Machine Learning</span> and <span className="font-semibold">Finance</span>.
+        I&apos;m passionate about <span className="font-semibold">Machine Learning</span> and <span className="font-semibold">Finance</span>.
         Currently seeking <span className="font-semibold">internship and research opportunities</span> 
         in these fields during the summer or the term period. 
       </p>
